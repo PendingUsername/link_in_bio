@@ -1,7 +1,5 @@
 # Personal Links Page
 
-![Project Banner](./images/banner.png)
-
 Welcome to **Personal Links Page**! This project serves as a centralized hub for showcasing online presence, including his portfolio, GitHub repositories, and other professional links. The page features an elegant design with dynamic background animations powered by [Vanta.js](https://www.vantajs.com/) and a high-quality background image.
 
 ## Table of Contents
